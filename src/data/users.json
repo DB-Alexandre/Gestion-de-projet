@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@example.com",
+      "fullName": "Admin",
+      "avatarUrl": "",
+      "isAdmin": true,
+      "roles": [
+        "admin",
+        "builder",
+        "developer",
+        "designer"
+      ],
+      "password": "$2a$10$zGv/qjgkcrJYVDv2z1HXEOQfu.kQcJEpGXmJJjKJwEJsE.0/hxlPi"
+    },
+    {
+      "id": "1738080141069",
+      "email": "administrateur@toto.fr",
+      "fullName": "Administrateur",
+      "avatarUrl": "",
+      "roles": [
+        "admin"
+      ],
+      "password": "$2a$10$tCP2XB4915/7ddKT4ClFxechuKrcokzaVe3PCWVPNuqXfOPXo8yWu",
+      "isAdmin": true
+    }
+  ]
+}
